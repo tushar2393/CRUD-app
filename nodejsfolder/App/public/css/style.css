@@ -1,0 +1,26 @@
+body{
+	padding-top: 100px;
+}
+.form-group{
+	padding-top: 20px;
+}
+.fade.in {
+  opacity: 1;
+}
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+
+.modal-backdrop .fade .in {
+  opacity: 0.5 !important;
+}
+
+
+.modal-backdrop.fade {
+    opacity: 0.5 !important;
+}
+.product .img-responsive {
+    margin: 0 auto;
+}
